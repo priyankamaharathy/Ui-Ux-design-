@@ -1,2 +1,2 @@
-## home appliance
+## Smart Home Mobile App
 This project showcases the UI/UX design for mobile application to control the home appliance.
